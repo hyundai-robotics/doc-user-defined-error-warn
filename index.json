@@ -1,0 +1,42 @@
+﻿[
+	{
+		"link": "README.md",
+		"char_ofs": 0,
+		"byte_ofs": 0
+	},
+	{
+		"link": "1-overview/README.md",
+		"char_ofs": 274,
+		"byte_ofs": 536
+	},
+	{
+		"link": "1-overview/1-description.md",
+		"char_ofs": 355,
+		"byte_ofs": 662
+	},
+	{
+		"link": "2-setting/README.md",
+		"char_ofs": 467,
+		"byte_ofs": 927
+	},
+	{
+		"link": "2-setting/1-user-def-error-set.md",
+		"char_ofs": 522,
+		"byte_ofs": 1053
+	},
+	{
+		"link": "2-setting/2-user-def-warn-set.md",
+		"char_ofs": 1688,
+		"byte_ofs": 3019
+	},
+	{
+		"link": "3-example/README.md",
+		"char_ofs": 2785,
+		"byte_ofs": 4852
+	},
+	{
+		"link": "3-example/1-user-def-error-example.md",
+		"char_ofs": 2845,
+		"byte_ofs": 4991
+	}
+]
