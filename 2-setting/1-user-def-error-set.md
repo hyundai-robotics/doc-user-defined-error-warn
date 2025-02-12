@@ -24,16 +24,16 @@
  <em><p align="center">그림 3 사용자 정의 에러 설정 파일</p></em>
 </p>
 
-5. PC에서 파일을 열고 정의할 에러를 샘플파일 양식에 맞게 편집합니다.(메모장으로 편집 가능)<br><br>
-<p align="center">
- <img src="../_assets/image4.png"></img>
- <em><p align="center">그림 4 사용자 정의 에러 편집</p></em>
-</p>
-
+5. PC에서 파일을 열고 정의할 에러를 샘플파일 양식에 맞게 편집합니다.(메모장으로 편집 가능)<br>
 -   E65###: 에러 코드(설정 범위 E65001 ~ E65500)
     -	cnd : 조건식
     -	msg : 에러 도움말에 표시되는 원인 메시지
     -   remedy : 에러 도움말에 표시되는 조치 방법
     -	mot_off : 모터 off
+
+<p align="center">
+ <img src="../_assets/image4.png"></img>
+ <em><p align="center">그림 4 사용자 정의 에러 편집</p></em>
+</p>
 
 6. 편집된 파일을 다시 티칭 펜던트로 복사합니다.

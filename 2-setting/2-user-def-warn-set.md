@@ -24,14 +24,14 @@
 </p>
 
 5. PC에서 파일을 열고 정의할 경고를 샘플파일 양식에 맞게 편집합니다.(메모장으로 편집 가능)<br><br>
-<p align="center">
- <img src="../_assets/image8.png"></img>
- <em><p align="center">그림 8 사용자 정의 경고 편집</p></em>
-</p>
-
 -   W65###: 경고 코드(설정 범위 W65001 ~ W65100)
     -	cnd : 조건식
     -	msg : 경고 도움말에 표시되는 원인 메시지
     -   remedy : 경고 도움말에 표시되는 조치 방법
+
+<p align="center">
+ <img src="../_assets/image8.png"></img>
+ <em><p align="center">그림 8 사용자 정의 경고 편집</p></em>
+</p>
 
 6. 편집된 파일을 다시 티칭 펜던트로 복사합니다.
